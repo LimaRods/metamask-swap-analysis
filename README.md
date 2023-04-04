@@ -11,4 +11,6 @@ This dashboard aims to provide insights into MetaMask Swap's performance and swa
 
 Additionally, this project serves to demonstrate my expertise in DeFi data analytics, as well as my proficiency in Python, advanced SQL, Tableau, and GitHub for on-chain data manipulation. Explore the project repository here.
 
+You can access the dashboard [here!](https://public.tableau.com/app/profile/rodolfo/viz/MetamaskSwapAnalysis/MetamaskSwapAnalysis?publish=yes)
+
 ![screenshot](Images/dashboard.png)
